@@ -13,7 +13,9 @@ return 0;
  //insercion de codigo
 int factorial=1;
 
-return 0;
+for (int i=1;i<=p;i++)
+factorial=factorial*1
+return factorial;
 
 }
 main()
